@@ -1,6 +1,7 @@
 ---
 name: 'Bug report'
 labels: bug
+about: You want to report a reproducible bug in Flow
 ---
 
 <!--
