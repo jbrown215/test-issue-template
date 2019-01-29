@@ -1,5 +1,6 @@
 ---
-title: 'Question'
+name: "Question"
+about: Please direct all questions to stackoverflow.com
 labels: question
 ---
 

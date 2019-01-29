@@ -1,7 +1,7 @@
 ---
-name: 'Bug report'
+name: "Bug report"
+about: You want to report a reproducible bug or regression in Flow.
 labels: bug
-about: You want to report a reproducible bug in Flow
 ---
 
 <!--
@@ -10,9 +10,11 @@ Please fill out this entire template so that we can address your bug report as q
 Any bug reports that don't contain instructions to reproduce the issue will be closed.
 -->
 
-## Expected behavior:
+Flow version:
 
-## Actual behavior:
+## Expected behavior
+
+## Actual behavior
 
 <!--
 Please reproduce your issue on flow.org/try so that we can debug it.
